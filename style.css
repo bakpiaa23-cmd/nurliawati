@@ -1,5 +1,7 @@
 body {
   background-color: bisque;
+  margin: 0;
+  padding: 20px;
 }
 
 h1 {
@@ -11,6 +13,8 @@ h1 {
 img {
   display: block;
   margin: auto;
+  max-width: 100%;
+  height: auto;
 }
 
 h2 {
@@ -24,4 +28,23 @@ ul {
   color: maroon;
   margin-left: 100px;
   font-size: 25px;
+}
+
+/* Tampilan tablet dan HP */
+@media (max-width: 768px) {
+  h1 {
+    font-size: 40px;
+  }
+
+  h2 {
+    margin-left: 20px;
+    font-size: 28px;
+  }
+
+  p,
+  ul {
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 18px;
+  }
 }
