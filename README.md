@@ -17,7 +17,7 @@ Halo! Saya Nurliawati, siswi kelas X PPLG (Pengembangan Perangkat Lunak dan Gim)
 **Website Portofolio (Daftar Riwayat Hidup)**
 Website satu halaman yang berisi profil, riwayat pendidikan, riwayat organisasi, skill, hobi, dan motto hidup.
 
-Lihat website: https://USERNAME.github.io/NAMA-REPOSITORY/
+Lihat website: (https://bakpiaa23-cmd.github.io/nurliawati/)
 
 ## Teknologi yang Digunakan
 - HTML untuk struktur halaman
